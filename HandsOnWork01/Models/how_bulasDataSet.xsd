@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="how_bulasDataSet" targetNamespace="http://tempuri.org/how_bulasDataSet.xsd" xmlns:mstns="http://tempuri.org/how_bulasDataSet.xsd" xmlns="http://tempuri.org/how_bulasDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="how_bulasConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="how_bulasConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HandsOnWork01.Properties.Settings.GlobalReference.Default.how_bulasConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="how_bulasDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="how_bulasDataSet" msprop:Generator_UserDSName="how_bulasDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
