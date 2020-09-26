@@ -1,5 +1,7 @@
 # HandsOnWork01 - Gerenciador de Bulas
 
+Projeto Hands on Work do módulo 3 do curso de Análise e Desenvolvimento de Sistemas da Univali. 
+Aluna Laíz Sayuri Moreira Goto.
 Gerenciador de bulas feito com Windows Form e Entity Framework, utilizando padrão MVC.
 
 Como rodar a aplicação: 
